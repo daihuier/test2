@@ -6,5 +6,6 @@ public class gittest {
         System.out.println("hellow git2");
         System.out.println("hellow git3");
         System.out.println("hellow git43");
+        System.out.println("hellow git3");
     }
 }
